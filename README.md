@@ -1,4 +1,4 @@
-# Analyzing-Motorcycle-Part
+# Analyzing Motorcycle Part Sales
 
 ## Project Overview
 This project is based on a DataCamp case study for a company that sells motorcycle parts.
