@@ -6,6 +6,6 @@ In this project, I worked on behalf of a company that sells motorcycle parts, wi
 Using SQL queries, I performed data analysis to uncover key factors influencing the company's revenue and provided valuable insights that could help guide their business decisions.
 
 ## Skills & Tools Used
--SQL (Data exploration, aggregation, filtering)
--Data Analysis
--Data Reporting
+- SQL (Data exploration, aggregation, filtering)
+- Data Analysis
+- Data Reporting
